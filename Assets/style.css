@@ -1,0 +1,26 @@
+body {
+    background-image: url(Images/background.jpg);
+    object-fit: fill;
+}
+h1 {
+    padding: 5%, 5%, 5%, 5%;
+    background-color: red;
+    color: rgb(223, 223, 0);
+    margin-top: 0px;
+}
+.wrapper {
+    text-align: center;
+    background-color: red;
+    color: rgb(223, 223, 0);
+    width: 50%;
+    margin: auto;
+    padding: 40%, 0%, 40%, 0%;
+}
+#answerblock {
+    color: red;
+    background-color: rgb(223, 223, 0);
+    margin-top: 5px;
+}
+img {
+    width: 400px;
+}
