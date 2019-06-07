@@ -1,6 +1,6 @@
 body {
-    background-image: url(Images/background.jpg);
-    object-fit: fill;
+    background: url(Images/background.jpg) no-repeat center center fixed;
+    background-size: 100%;
 }
 h1 {
     padding: 5%, 5%, 5%, 5%;
